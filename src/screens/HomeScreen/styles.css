@@ -1,0 +1,7 @@
+.body{
+    width:100vw;
+    height: 100vh;
+    user-select:"none";
+    /* overflow: hidden; */
+    background: linear-gradient(170deg, rgba(15, 37, 75, 0.8) 20%, rgba(7, 19, 44, 0.5) 20%, rgba(49, 57, 73, 0.5) 35%, rgba(9, 29, 248, 0.048) 35%, rgba(28, 37, 54, 0.8) 45%, rgba(49, 61, 85, 0.5) 45%, rgba(48, 61, 88, 0.8) 75%, rgba(37, 56, 94, 0.5) 75%), linear-gradient(45deg, rgba(32, 60, 110, 0.8) 0%, rgba(22, 43, 85, 0.8) 50%, rgba(43, 70, 128, 0.8) 50%, rgba(31, 57, 109, 0.8) 100%) rgba(3, 20, 49, 0.8);
+}
